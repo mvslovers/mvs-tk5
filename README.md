@@ -30,5 +30,5 @@ If you have a feature request for the Rob Prins update, please submit it by open
 
 ## General Questions
 
-If you have any general questions about the Rob Prince extension or the MVS 3.8 TK4 Turnkey System, please feel free to ask them by opening a new issue in the GitHub repository. We will do our best to answer your questions as soon as possible.
+If you have any general questions about the Rob Prins extension or the MVS 3.8 TK4 Turnkey System, please feel free to ask them by opening a new issue in the GitHub repository. We will do our best to answer your questions as soon as possible.
 
