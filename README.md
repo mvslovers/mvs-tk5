@@ -15,9 +15,8 @@ This repository aims to provide a space for users of the Rob Prins version of MV
 
 ## Getting Started
 
-To get started, you will need to have the MVS 3.8 TK4- Turnkey System installed on your computer. You can download the system from Jürgen Winkelmann's website at http://wotho.ethz.ch/tk4-/.
-
-Once you have the MVS 3.8 TK4- Turnkey System installed, you can download the Rob Prins update from Rob Prins's website at http://www.prince-webdesign.nl/index.php/software/update-on-mvs-turnkey-4.
+You can download the complete Rob Prins updated TK4 system (tk4sys) from Rob Prins's website at http://www.prince-webdesign.nl/tk4rob. If you are intended to install the modifications only (tk4mod). You need a base TK4- system. You can download the original TK4- system from 
+https://wotho.ethz.ch/tk4-/tk4-_v1.00_current.zip.
 
 Follow the installation instructions provided on Rob Prins's website to install the update. With the latest version of the Rob Prins update, you have the option to perform a complete all-in-one installation as well.
 
